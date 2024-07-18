@@ -1,7 +1,7 @@
 // how can you call a function in different ways?????????
 
 function greetings(functionCall){
-   const result = "Method" + functionCall
+   const result = "Method called : " + functionCall
    console.log(result)}
 //common method
 greetings("common")
