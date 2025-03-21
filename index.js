@@ -23,3 +23,19 @@
 let arr = [1,2,3,4][1,2,3]
 
 console.log(arr)
+
+
+//function declaration
+function greet(){
+   console.log("Hello")
+}
+
+greet()
+
+//function expression
+
+const abc = function(a,b){
+   return a+b
+}
+
+console.log(abc(2,5))
