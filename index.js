@@ -39,3 +39,12 @@ const abc = function(a,b){
 }
 
 console.log(abc(2,5))
+
+
+let a= 5
+let b= a
+console.log(b)
+
+console.log("4" + 6 * 5)
+console.log("4" * 6 + 5)
+console.log("5" + 3)
