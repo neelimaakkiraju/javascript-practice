@@ -13,3 +13,13 @@ function getLongest(str){
 }
 
 console.log(getLongest("wewe ereuee rueyhwurye eruyeuryueweeee"))
+
+
+
+
+
+//temporal dead zone
+
+function tdz(){
+ 
+}
