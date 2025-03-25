@@ -35,5 +35,5 @@
 var c = []
 var d  = []
 
-console.log(c == d)
-console.log(c === d)
+console.log(c == d)  //false
+console.log(c === d) //false
